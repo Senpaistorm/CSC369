@@ -1,0 +1,18 @@
+Yuhui Pan, Lizhe Chen
+panyuhui, chenliz1
+r5
+
+We also implement rm and restore for symlink.
+
+Notice:
+When testing with ext2_cp with file size spanning over 12 blocks, readimage executable's
+(which is given in the assignment website)output of singly indirect block is not as 
+expected. The singly indirect block should output the block numbers that has been 
+assigned to hold extra space that the file needs. Instead, it print out all 0s for 
+block numbers stored in singly indirect block. I gdb into the program and see that the 
+memory space allocated for singly indirect block has been assigned values of those block
+numbers. It is a little weired because what the output show is not exactly as what I see 
+inside the running time of the program. However, allocation and bitmap update do succeed
+to indicate we have copied the content into the blocks. And I test readimage with largefile
+(which is also given in the assignment website), the result is the same, it does not output 
+the block numbers that are in the singly indirect block.

@@ -1,0 +1,130 @@
+rand
+traceprogs/tr-interesting.ref
+50
+Hit count: 13694
+Miss count: 26290
+Clean evictions: 318
+Dirty evictions: 25922
+Hit rate: 34.2487
+100
+Hit count: 14270
+Miss count: 25714
+Clean evictions: 159
+Dirty evictions: 25455
+Hit rate: 35.6893
+150
+Hit count: 14487
+Miss count: 25497
+Clean evictions: 90
+Dirty evictions: 25257
+Hit rate: 36.2320
+200
+Hit count: 14586
+Miss count: 25398
+Clean evictions: 68
+Dirty evictions: 25130
+Hit rate: 36.4796
+fifo
+traceprogs/tr-interesting.ref
+50
+Hit count: 13768
+Miss count: 26216
+Clean evictions: 303
+Dirty evictions: 25863
+Hit rate: 34.4338
+100
+Hit count: 14320
+Miss count: 25664
+Clean evictions: 131
+Dirty evictions: 25433
+Hit rate: 35.8143
+150
+Hit count: 14488
+Miss count: 25496
+Clean evictions: 83
+Dirty evictions: 25263
+Hit rate: 36.2345
+200
+Hit count: 14576
+Miss count: 25408
+Clean evictions: 61
+Dirty evictions: 25147
+Hit rate: 36.4546
+lru
+traceprogs/tr-interesting.ref
+50
+Hit count: 14761
+Miss count: 25223
+Clean evictions: 42
+Dirty evictions: 25131
+Hit rate: 36.9173
+100
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 25062
+Hit rate: 37.0698
+150
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 25012
+Hit rate: 37.0698
+200
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 24962
+Hit rate: 37.0698
+clock
+traceprogs/tr-interesting.ref
+50
+Hit count: 14743
+Miss count: 25241
+Clean evictions: 52
+Dirty evictions: 25139
+Hit rate: 36.8722
+100
+Hit count: 14818
+Miss count: 25166
+Clean evictions: 2
+Dirty evictions: 25064
+Hit rate: 37.0598
+150
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 25012
+Hit rate: 37.0698
+200
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 24962
+Hit rate: 37.0698
+opt
+traceprogs/tr-interesting.ref
+50
+Hit count: 14839
+Miss count: 25145
+Clean evictions: 13
+Dirty evictions: 25082
+Hit rate: 37.1123
+100
+Hit count: 14862
+Miss count: 25122
+Clean evictions: 0
+Dirty evictions: 25022
+Hit rate: 37.1699
+150
+Hit count: 14862
+Miss count: 25122
+Clean evictions: 0
+Dirty evictions: 24972
+Hit rate: 37.1699
+200
+Hit count: 14862
+Miss count: 25122
+Clean evictions: 0
+Dirty evictions: 24922
+Hit rate: 37.1699

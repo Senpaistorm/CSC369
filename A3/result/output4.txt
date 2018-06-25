@@ -1,0 +1,76 @@
+clock
+traceprogs/tr-simpleloop.ref
+50
+Hit count: 7801
+Miss count: 2807
+Clean evictions: 75
+Dirty evictions: 2682
+Hit rate: 73.5388
+100
+Hit count: 7917
+Miss count: 2691
+Clean evictions: 3
+Dirty evictions: 2588
+Hit rate: 74.6324
+150
+Hit count: 7920
+Miss count: 2688
+Clean evictions: 0
+Dirty evictions: 2538
+Hit rate: 74.6606
+200
+Hit count: 7922
+Miss count: 2686
+Clean evictions: 0
+Dirty evictions: 2486
+Hit rate: 74.6795
+traceprogs/tr-matmul.ref
+50
+Hit count: 1846888
+Miss count: 1041248
+Clean evictions: 520117
+Dirty evictions: 521081
+Hit rate: 63.9474
+100
+Hit count: 1847135
+Miss count: 1041001
+Clean evictions: 519978
+Dirty evictions: 520923
+Hit rate: 63.9560
+150
+Hit count: 2854929
+Miss count: 33207
+Clean evictions: 16122
+Dirty evictions: 16935
+Hit rate: 98.8502
+200
+Hit count: 2855233
+Miss count: 32903
+Clean evictions: 15987
+Dirty evictions: 16716
+Hit rate: 98.8608
+traceprogs/tr-blocked.ref
+50
+Hit count: 2413056
+Miss count: 5176
+Clean evictions: 1433
+Dirty evictions: 3693
+Hit rate: 99.7860
+100
+Hit count: 2414204
+Miss count: 4028
+Clean evictions: 1324
+Dirty evictions: 2604
+Hit rate: 99.8334
+150
+Hit count: 2414305
+Miss count: 3927
+Clean evictions: 1322
+Dirty evictions: 2455
+Hit rate: 99.8376
+200
+Hit count: 2415057
+Miss count: 3175
+Clean evictions: 1047
+Dirty evictions: 1928
+Hit rate: 99.8687

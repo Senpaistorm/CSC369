@@ -1,0 +1,11 @@
+Yuhui Pan, Lizhe Chen
+panyuhui, chenliz1
+r10
+Discussion
+Starvation can happen using this monitor. The reason is that if a specific quadrant that a car in 
+a lane has to acquire is always occpuied by the other car from other lanes, then it never gets the 
+chance to enter the intersection. And scheduling priority of different cars in different lanes is 
+OS-dependent. It may be the case that other lanes keep filling its buffers and keep pushing its 
+cars to cross the intersection and would occupy a specific quadrant every time, then the car in 
+that specific lane is unable to acquire the lock of this specific quadrant. It has to wait there 
+until the OS decides to let it go first. This is where the starvation arises.

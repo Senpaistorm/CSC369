@@ -1,0 +1,1334 @@
+opt
+traceprogs/tr-simpleloop.ref
+50
+[0]: 0xae0000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0xaad000
+	[0] - [4095]: INVALID
+[5]: 0xaf1000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0xacf000
+	[0] - [4095]: INVALID
+[4095]: 0xabe000
+	[0] - [4095]: INVALID
+
+Hit count: 7930
+Miss count: 2678
+Clean evictions: 26
+Dirty evictions: 2602
+Total references : 10608
+Hit rate: 74.7549
+Miss rate: 25.2451
+100
+[0]: 0xce2000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0xcaf000
+	[0] - [4095]: INVALID
+[5]: 0xcf3000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0xcd1000
+	[0] - [4095]: INVALID
+[4095]: 0xcc0000
+	[0] - [4095]: INVALID
+
+Hit count: 7969
+Miss count: 2639
+Clean evictions: 0
+Dirty evictions: 2539
+Total references : 10608
+Hit rate: 75.1225
+Miss rate: 24.8775
+150
+[0]: 0xe2f000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0xdfc000
+	[0] - [4095]: INVALID
+[5]: 0xe40000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0xe1e000
+	[0] - [4095]: INVALID
+[4095]: 0xe0d000
+	[0] - [4095]: INVALID
+
+Hit count: 7969
+Miss count: 2639
+Clean evictions: 0
+Dirty evictions: 2489
+Total references : 10608
+Hit rate: 75.1225
+Miss rate: 24.8775
+200
+[0]: 0x116d000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x113a000
+	[0] - [4095]: INVALID
+[5]: 0x117e000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x115c000
+	[0] - [4095]: INVALID
+[4095]: 0x114b000
+	[0] - [4095]: INVALID
+
+Hit count: 7969
+Miss count: 2639
+Clean evictions: 0
+Dirty evictions: 2439
+Total references : 10608
+Hit rate: 75.1225
+Miss rate: 24.8775
+traceprogs/tr-matmul.ref
+50
+[0]: 0x1ef9000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1ec6000
+	[0] - [4095]: INVALID
+[5]: 0x1f0a000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[55]: INVALID
+[56]: 0x1f1b000
+	[0] - [4095]: INVALID
+[57]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1ee8000
+	[0] - [4095]: INVALID
+[4095]: 0x1ed7000
+	[0] - [4095]: INVALID
+
+Hit count: 2300676
+Miss count: 587460
+Clean evictions: 293420
+Dirty evictions: 293990
+Total references : 2888136
+Hit rate: 79.6595
+Miss rate: 20.3405
+100
+[0]: 0x2604000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x25d1000
+	[0] - [4095]: INVALID
+[5]: 0x2615000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[55]: INVALID
+[56]: 0x2626000
+	[0] - [4095]: INVALID
+[57]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x25f3000
+	[0] - [4095]: INVALID
+[4095]: 0x25e2000
+	[0] - [4095]: INVALID
+
+Hit count: 2795341
+Miss count: 92795
+Clean evictions: 46010
+Dirty evictions: 46685
+Total references : 2888136
+Hit rate: 96.7870
+Miss rate: 3.2130
+150
+[0]: 0x1582000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x154f000
+	[0] - [4095]: INVALID
+[5]: 0x1593000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[55]: INVALID
+[56]: 0x15a4000
+	[0] - [4095]: INVALID
+[57]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1571000
+	[0] - [4095]: INVALID
+[4095]: 0x1560000
+	[0] - [4095]: INVALID
+
+Hit count: 2861524
+Miss count: 26612
+Clean evictions: 12928
+Dirty evictions: 13534
+Total references : 2888136
+Hit rate: 99.0786
+Miss rate: 0.9214
+200
+[0]: 0x1c5c000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1c29000
+	[0] - [4095]: INVALID
+[5]: 0x1c6d000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[55]: INVALID
+[56]: 0x1c7e000
+	[0] - [4095]: INVALID
+[57]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1c4b000
+	[0] - [4095]: INVALID
+[4095]: 0x1c3a000
+	[0] - [4095]: INVALID
+
+Hit count: 2868874
+Miss count: 19262
+Clean evictions: 9237
+Dirty evictions: 9825
+Total references : 2888136
+Hit rate: 99.3331
+Miss rate: 0.6669
+traceprogs/tr-blocked.ref
+50
+[0]: 0x199f000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x196c000
+	[0] - [4095]: INVALID
+[5]: 0x19b0000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[55]: INVALID
+[56]: 0x19c1000
+	[0] - [4095]: INVALID
+[57]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x198e000
+	[0] - [4095]: INVALID
+[4095]: 0x197d000
+	[0] - [4095]: INVALID
+
+Hit count: 2414535
+Miss count: 3697
+Clean evictions: 1325
+Dirty evictions: 2322
+Total references : 2418232
+Hit rate: 99.8471
+Miss rate: 0.1529
+100
+[0]: 0x1357000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1324000
+	[0] - [4095]: INVALID
+[5]: 0x1368000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[55]: INVALID
+[56]: 0x1379000
+	[0] - [4095]: INVALID
+[57]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1346000
+	[0] - [4095]: INVALID
+[4095]: 0x1335000
+	[0] - [4095]: INVALID
+
+Hit count: 2415236
+Miss count: 2996
+Clean evictions: 1043
+Dirty evictions: 1853
+Total references : 2418232
+Hit rate: 99.8761
+Miss rate: 0.1239
+150
+[0]: 0xb91000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0xb5e000
+	[0] - [4095]: INVALID
+[5]: 0xba2000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[55]: INVALID
+[56]: 0xbb3000
+	[0] - [4095]: INVALID
+[57]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0xb80000
+	[0] - [4095]: INVALID
+[4095]: 0xb6f000
+	[0] - [4095]: INVALID
+
+Hit count: 2415711
+Miss count: 2521
+Clean evictions: 822
+Dirty evictions: 1549
+Total references : 2418232
+Hit rate: 99.8958
+Miss rate: 0.1042
+200
+[0]: 0x1153000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1120000
+	[0] - [4095]: INVALID
+[5]: 0x1164000
+	[0] - [4095]: INVALID
+[6]: INVALID
+  to
+[55]: INVALID
+[56]: 0x1175000
+	[0] - [4095]: INVALID
+[57]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1142000
+	[0] - [4095]: INVALID
+[4095]: 0x1131000
+	[0] - [4095]: INVALID
+
+Hit count: 2415961
+Miss count: 2271
+Clean evictions: 653
+Dirty evictions: 1418
+Total references : 2418232
+Hit rate: 99.9061
+Miss rate: 0.0939
+rand
+traceprogs/tr-interesting.ref
+50
+[0]: 0x1956000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1923000
+	[0] - [4095]: INVALID
+[5]: 0x1967000
+	[0] - [4095]: INVALID
+[6]: 0x1978000
+	[0] - [4095]: INVALID
+[7]: 0x1989000
+	[0] - [4095]: INVALID
+[8]: 0x199a000
+	[0] - [4095]: INVALID
+[9]: 0x19ab000
+	[0] - [4095]: INVALID
+[10]: 0x19bc000
+	[0] - [4095]: INVALID
+[11]: 0x19cd000
+	[0] - [4095]: INVALID
+[12]: 0x19de000
+	[0] - [4095]: INVALID
+[13]: 0x19ef000
+	[0] - [4095]: INVALID
+[14]: 0x1a00000
+	[0] - [4095]: INVALID
+[15]: 0x1a11000
+	[0] - [4095]: INVALID
+[16]: 0x1a22000
+	[0] - [4095]: INVALID
+[17]: 0x1a33000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1945000
+	[0] - [4095]: INVALID
+[4095]: 0x1934000
+	[0] - [4095]: INVALID
+
+Hit count: 13694
+Miss count: 26290
+Clean evictions: 318
+Dirty evictions: 25922
+Total references : 39984
+Hit rate: 34.2487
+Miss rate: 65.7513
+100
+[0]: 0x14a3000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1470000
+	[0] - [4095]: INVALID
+[5]: 0x14b4000
+	[0] - [4095]: INVALID
+[6]: 0x14c5000
+	[0] - [4095]: INVALID
+[7]: 0x14d6000
+	[0] - [4095]: INVALID
+[8]: 0x14e7000
+	[0] - [4095]: INVALID
+[9]: 0x14f8000
+	[0] - [4095]: INVALID
+[10]: 0x1509000
+	[0] - [4095]: INVALID
+[11]: 0x151a000
+	[0] - [4095]: INVALID
+[12]: 0x152b000
+	[0] - [4095]: INVALID
+[13]: 0x153c000
+	[0] - [4095]: INVALID
+[14]: 0x154d000
+	[0] - [4095]: INVALID
+[15]: 0x155e000
+	[0] - [4095]: INVALID
+[16]: 0x156f000
+	[0] - [4095]: INVALID
+[17]: 0x1580000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1492000
+	[0] - [4095]: INVALID
+[4095]: 0x1481000
+	[0] - [4095]: INVALID
+
+Hit count: 14270
+Miss count: 25714
+Clean evictions: 159
+Dirty evictions: 25455
+Total references : 39984
+Hit rate: 35.6893
+Miss rate: 64.3107
+150
+[0]: 0x1951000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x191e000
+	[0] - [4095]: INVALID
+[5]: 0x1962000
+	[0] - [4095]: INVALID
+[6]: 0x1973000
+	[0] - [4095]: INVALID
+[7]: 0x1984000
+	[0] - [4095]: INVALID
+[8]: 0x1995000
+	[0] - [4095]: INVALID
+[9]: 0x19a6000
+	[0] - [4095]: INVALID
+[10]: 0x19b7000
+	[0] - [4095]: INVALID
+[11]: 0x19c8000
+	[0] - [4095]: INVALID
+[12]: 0x19d9000
+	[0] - [4095]: INVALID
+[13]: 0x19ea000
+	[0] - [4095]: INVALID
+[14]: 0x19fb000
+	[0] - [4095]: INVALID
+[15]: 0x1a0c000
+	[0] - [4095]: INVALID
+[16]: 0x1a1d000
+	[0] - [4095]: INVALID
+[17]: 0x1a2e000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1940000
+	[0] - [4095]: INVALID
+[4095]: 0x192f000
+	[0] - [4095]: INVALID
+
+Hit count: 14487
+Miss count: 25497
+Clean evictions: 90
+Dirty evictions: 25257
+Total references : 39984
+Hit rate: 36.2320
+Miss rate: 63.7680
+200
+[0]: 0x17af000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x177c000
+	[0] - [4095]: INVALID
+[5]: 0x17c0000
+	[0] - [4095]: INVALID
+[6]: 0x17d1000
+	[0] - [4095]: INVALID
+[7]: 0x17e2000
+	[0] - [4095]: INVALID
+[8]: 0x17f3000
+	[0] - [4095]: INVALID
+[9]: 0x1804000
+	[0] - [4095]: INVALID
+[10]: 0x1815000
+	[0] - [4095]: INVALID
+[11]: 0x1826000
+	[0] - [4095]: INVALID
+[12]: 0x1837000
+	[0] - [4095]: INVALID
+[13]: 0x1848000
+	[0] - [4095]: INVALID
+[14]: 0x1859000
+	[0] - [4095]: INVALID
+[15]: 0x186a000
+	[0] - [4095]: INVALID
+[16]: 0x187b000
+	[0] - [4095]: INVALID
+[17]: 0x188c000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x179e000
+	[0] - [4095]: INVALID
+[4095]: 0x178d000
+	[0] - [4095]: INVALID
+
+Hit count: 14586
+Miss count: 25398
+Clean evictions: 68
+Dirty evictions: 25130
+Total references : 39984
+Hit rate: 36.4796
+Miss rate: 63.5204
+fifo
+traceprogs/tr-interesting.ref
+50
+[0]: 0x1a0d000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x19da000
+	[0] - [4095]: INVALID
+[5]: 0x1a1e000
+	[0] - [4095]: INVALID
+[6]: 0x1a2f000
+	[0] - [4095]: INVALID
+[7]: 0x1a40000
+	[0] - [4095]: INVALID
+[8]: 0x1a51000
+	[0] - [4095]: INVALID
+[9]: 0x1a62000
+	[0] - [4095]: INVALID
+[10]: 0x1a73000
+	[0] - [4095]: INVALID
+[11]: 0x1a84000
+	[0] - [4095]: INVALID
+[12]: 0x1a95000
+	[0] - [4095]: INVALID
+[13]: 0x1aa6000
+	[0] - [4095]: INVALID
+[14]: 0x1ab7000
+	[0] - [4095]: INVALID
+[15]: 0x1ac8000
+	[0] - [4095]: INVALID
+[16]: 0x1ad9000
+	[0] - [4095]: INVALID
+[17]: 0x1aea000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x19fc000
+	[0] - [4095]: INVALID
+[4095]: 0x19eb000
+	[0] - [4095]: INVALID
+
+Hit count: 13768
+Miss count: 26216
+Clean evictions: 303
+Dirty evictions: 25863
+Total references : 39984
+Hit rate: 34.4338
+Miss rate: 65.5662
+100
+[0]: 0x1738000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1705000
+	[0] - [4095]: INVALID
+[5]: 0x1749000
+	[0] - [4095]: INVALID
+[6]: 0x175a000
+	[0] - [4095]: INVALID
+[7]: 0x176b000
+	[0] - [4095]: INVALID
+[8]: 0x177c000
+	[0] - [4095]: INVALID
+[9]: 0x178d000
+	[0] - [4095]: INVALID
+[10]: 0x179e000
+	[0] - [4095]: INVALID
+[11]: 0x17af000
+	[0] - [4095]: INVALID
+[12]: 0x17c0000
+	[0] - [4095]: INVALID
+[13]: 0x17d1000
+	[0] - [4095]: INVALID
+[14]: 0x17e2000
+	[0] - [4095]: INVALID
+[15]: 0x17f3000
+	[0] - [4095]: INVALID
+[16]: 0x1804000
+	[0] - [4095]: INVALID
+[17]: 0x1815000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1727000
+	[0] - [4095]: INVALID
+[4095]: 0x1716000
+	[0] - [4095]: INVALID
+
+Hit count: 14320
+Miss count: 25664
+Clean evictions: 131
+Dirty evictions: 25433
+Total references : 39984
+Hit rate: 35.8143
+Miss rate: 64.1857
+150
+[0]: 0x255e000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x252b000
+	[0] - [4095]: INVALID
+[5]: 0x256f000
+	[0] - [4095]: INVALID
+[6]: 0x2580000
+	[0] - [4095]: INVALID
+[7]: 0x2591000
+	[0] - [4095]: INVALID
+[8]: 0x25a2000
+	[0] - [4095]: INVALID
+[9]: 0x25b3000
+	[0] - [4095]: INVALID
+[10]: 0x25c4000
+	[0] - [4095]: INVALID
+[11]: 0x25d5000
+	[0] - [4095]: INVALID
+[12]: 0x25e6000
+	[0] - [4095]: INVALID
+[13]: 0x25f7000
+	[0] - [4095]: INVALID
+[14]: 0x2608000
+	[0] - [4095]: INVALID
+[15]: 0x2619000
+	[0] - [4095]: INVALID
+[16]: 0x262a000
+	[0] - [4095]: INVALID
+[17]: 0x263b000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x254d000
+	[0] - [4095]: INVALID
+[4095]: 0x253c000
+	[0] - [4095]: INVALID
+
+Hit count: 14488
+Miss count: 25496
+Clean evictions: 83
+Dirty evictions: 25263
+Total references : 39984
+Hit rate: 36.2345
+Miss rate: 63.7655
+200
+[0]: 0x1b8a000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1b57000
+	[0] - [4095]: INVALID
+[5]: 0x1b9b000
+	[0] - [4095]: INVALID
+[6]: 0x1bac000
+	[0] - [4095]: INVALID
+[7]: 0x1bbd000
+	[0] - [4095]: INVALID
+[8]: 0x1bce000
+	[0] - [4095]: INVALID
+[9]: 0x1bdf000
+	[0] - [4095]: INVALID
+[10]: 0x1bf0000
+	[0] - [4095]: INVALID
+[11]: 0x1c01000
+	[0] - [4095]: INVALID
+[12]: 0x1c12000
+	[0] - [4095]: INVALID
+[13]: 0x1c23000
+	[0] - [4095]: INVALID
+[14]: 0x1c34000
+	[0] - [4095]: INVALID
+[15]: 0x1c45000
+	[0] - [4095]: INVALID
+[16]: 0x1c56000
+	[0] - [4095]: INVALID
+[17]: 0x1c67000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1b79000
+	[0] - [4095]: INVALID
+[4095]: 0x1b68000
+	[0] - [4095]: INVALID
+
+Hit count: 14576
+Miss count: 25408
+Clean evictions: 61
+Dirty evictions: 25147
+Total references : 39984
+Hit rate: 36.4546
+Miss rate: 63.5454
+lru
+traceprogs/tr-interesting.ref
+50
+[0]: 0x10f5000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x10c2000
+	[0] - [4095]: INVALID
+[5]: 0x1106000
+	[0] - [4095]: INVALID
+[6]: 0x1117000
+	[0] - [4095]: INVALID
+[7]: 0x1128000
+	[0] - [4095]: INVALID
+[8]: 0x1139000
+	[0] - [4095]: INVALID
+[9]: 0x114a000
+	[0] - [4095]: INVALID
+[10]: 0x115b000
+	[0] - [4095]: INVALID
+[11]: 0x116c000
+	[0] - [4095]: INVALID
+[12]: 0x117d000
+	[0] - [4095]: INVALID
+[13]: 0x118e000
+	[0] - [4095]: INVALID
+[14]: 0x119f000
+	[0] - [4095]: INVALID
+[15]: 0x11b0000
+	[0] - [4095]: INVALID
+[16]: 0x11c1000
+	[0] - [4095]: INVALID
+[17]: 0x11d2000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x10e4000
+	[0] - [4095]: INVALID
+[4095]: 0x10d3000
+	[0] - [4095]: INVALID
+
+Hit count: 14761
+Miss count: 25223
+Clean evictions: 42
+Dirty evictions: 25131
+Total references : 39984
+Hit rate: 36.9173
+Miss rate: 63.0827
+100
+[0]: 0x24e0000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x24ad000
+	[0] - [4095]: INVALID
+[5]: 0x24f1000
+	[0] - [4095]: INVALID
+[6]: 0x2502000
+	[0] - [4095]: INVALID
+[7]: 0x2513000
+	[0] - [4095]: INVALID
+[8]: 0x2524000
+	[0] - [4095]: INVALID
+[9]: 0x2535000
+	[0] - [4095]: INVALID
+[10]: 0x2546000
+	[0] - [4095]: INVALID
+[11]: 0x2557000
+	[0] - [4095]: INVALID
+[12]: 0x2568000
+	[0] - [4095]: INVALID
+[13]: 0x2579000
+	[0] - [4095]: INVALID
+[14]: 0x258a000
+	[0] - [4095]: INVALID
+[15]: 0x259b000
+	[0] - [4095]: INVALID
+[16]: 0x25ac000
+	[0] - [4095]: INVALID
+[17]: 0x25bd000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x24cf000
+	[0] - [4095]: INVALID
+[4095]: 0x24be000
+	[0] - [4095]: INVALID
+
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 25062
+Total references : 39984
+Hit rate: 37.0698
+Miss rate: 62.9302
+150
+[0]: 0x222c000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x21f9000
+	[0] - [4095]: INVALID
+[5]: 0x223d000
+	[0] - [4095]: INVALID
+[6]: 0x224e000
+	[0] - [4095]: INVALID
+[7]: 0x225f000
+	[0] - [4095]: INVALID
+[8]: 0x2270000
+	[0] - [4095]: INVALID
+[9]: 0x2281000
+	[0] - [4095]: INVALID
+[10]: 0x2292000
+	[0] - [4095]: INVALID
+[11]: 0x22a3000
+	[0] - [4095]: INVALID
+[12]: 0x22b4000
+	[0] - [4095]: INVALID
+[13]: 0x22c5000
+	[0] - [4095]: INVALID
+[14]: 0x22d6000
+	[0] - [4095]: INVALID
+[15]: 0x22e7000
+	[0] - [4095]: INVALID
+[16]: 0x22f8000
+	[0] - [4095]: INVALID
+[17]: 0x2309000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x221b000
+	[0] - [4095]: INVALID
+[4095]: 0x220a000
+	[0] - [4095]: INVALID
+
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 25012
+Total references : 39984
+Hit rate: 37.0698
+Miss rate: 62.9302
+200
+[0]: 0xfbe000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0xf8b000
+	[0] - [4095]: INVALID
+[5]: 0xfcf000
+	[0] - [4095]: INVALID
+[6]: 0xfe0000
+	[0] - [4095]: INVALID
+[7]: 0xff1000
+	[0] - [4095]: INVALID
+[8]: 0x1002000
+	[0] - [4095]: INVALID
+[9]: 0x1013000
+	[0] - [4095]: INVALID
+[10]: 0x1024000
+	[0] - [4095]: INVALID
+[11]: 0x1035000
+	[0] - [4095]: INVALID
+[12]: 0x1046000
+	[0] - [4095]: INVALID
+[13]: 0x1057000
+	[0] - [4095]: INVALID
+[14]: 0x1068000
+	[0] - [4095]: INVALID
+[15]: 0x1079000
+	[0] - [4095]: INVALID
+[16]: 0x108a000
+	[0] - [4095]: INVALID
+[17]: 0x109b000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0xfad000
+	[0] - [4095]: INVALID
+[4095]: 0xf9c000
+	[0] - [4095]: INVALID
+
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 24962
+Total references : 39984
+Hit rate: 37.0698
+Miss rate: 62.9302
+clock
+traceprogs/tr-interesting.ref
+50
+[0]: 0x1cf6000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1cc3000
+	[0] - [4095]: INVALID
+[5]: 0x1d07000
+	[0] - [4095]: INVALID
+[6]: 0x1d18000
+	[0] - [4095]: INVALID
+[7]: 0x1d29000
+	[0] - [4095]: INVALID
+[8]: 0x1d3a000
+	[0] - [4095]: INVALID
+[9]: 0x1d4b000
+	[0] - [4095]: INVALID
+[10]: 0x1d5c000
+	[0] - [4095]: INVALID
+[11]: 0x1d6d000
+	[0] - [4095]: INVALID
+[12]: 0x1d7e000
+	[0] - [4095]: INVALID
+[13]: 0x1d8f000
+	[0] - [4095]: INVALID
+[14]: 0x1da0000
+	[0] - [4095]: INVALID
+[15]: 0x1db1000
+	[0] - [4095]: INVALID
+[16]: 0x1dc2000
+	[0] - [4095]: INVALID
+[17]: 0x1dd3000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1ce5000
+	[0] - [4095]: INVALID
+[4095]: 0x1cd4000
+	[0] - [4095]: INVALID
+
+Hit count: 14743
+Miss count: 25241
+Clean evictions: 52
+Dirty evictions: 25139
+Total references : 39984
+Hit rate: 36.8722
+Miss rate: 63.1278
+100
+[0]: 0x24fa000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x24c7000
+	[0] - [4095]: INVALID
+[5]: 0x250b000
+	[0] - [4095]: INVALID
+[6]: 0x251c000
+	[0] - [4095]: INVALID
+[7]: 0x252d000
+	[0] - [4095]: INVALID
+[8]: 0x253e000
+	[0] - [4095]: INVALID
+[9]: 0x254f000
+	[0] - [4095]: INVALID
+[10]: 0x2560000
+	[0] - [4095]: INVALID
+[11]: 0x2571000
+	[0] - [4095]: INVALID
+[12]: 0x2582000
+	[0] - [4095]: INVALID
+[13]: 0x2593000
+	[0] - [4095]: INVALID
+[14]: 0x25a4000
+	[0] - [4095]: INVALID
+[15]: 0x25b5000
+	[0] - [4095]: INVALID
+[16]: 0x25c6000
+	[0] - [4095]: INVALID
+[17]: 0x25d7000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x24e9000
+	[0] - [4095]: INVALID
+[4095]: 0x24d8000
+	[0] - [4095]: INVALID
+
+Hit count: 14818
+Miss count: 25166
+Clean evictions: 2
+Dirty evictions: 25064
+Total references : 39984
+Hit rate: 37.0598
+Miss rate: 62.9402
+150
+[0]: 0xeaa000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0xe77000
+	[0] - [4095]: INVALID
+[5]: 0xebb000
+	[0] - [4095]: INVALID
+[6]: 0xecc000
+	[0] - [4095]: INVALID
+[7]: 0xedd000
+	[0] - [4095]: INVALID
+[8]: 0xeee000
+	[0] - [4095]: INVALID
+[9]: 0xeff000
+	[0] - [4095]: INVALID
+[10]: 0xf10000
+	[0] - [4095]: INVALID
+[11]: 0xf21000
+	[0] - [4095]: INVALID
+[12]: 0xf32000
+	[0] - [4095]: INVALID
+[13]: 0xf43000
+	[0] - [4095]: INVALID
+[14]: 0xf54000
+	[0] - [4095]: INVALID
+[15]: 0xf65000
+	[0] - [4095]: INVALID
+[16]: 0xf76000
+	[0] - [4095]: INVALID
+[17]: 0xf87000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0xe99000
+	[0] - [4095]: INVALID
+[4095]: 0xe88000
+	[0] - [4095]: INVALID
+
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 25012
+Total references : 39984
+Hit rate: 37.0698
+Miss rate: 62.9302
+200
+[0]: 0x1278000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x1245000
+	[0] - [4095]: INVALID
+[5]: 0x1289000
+	[0] - [4095]: INVALID
+[6]: 0x129a000
+	[0] - [4095]: INVALID
+[7]: 0x12ab000
+	[0] - [4095]: INVALID
+[8]: 0x12bc000
+	[0] - [4095]: INVALID
+[9]: 0x12cd000
+	[0] - [4095]: INVALID
+[10]: 0x12de000
+	[0] - [4095]: INVALID
+[11]: 0x12ef000
+	[0] - [4095]: INVALID
+[12]: 0x1300000
+	[0] - [4095]: INVALID
+[13]: 0x1311000
+	[0] - [4095]: INVALID
+[14]: 0x1322000
+	[0] - [4095]: INVALID
+[15]: 0x1333000
+	[0] - [4095]: INVALID
+[16]: 0x1344000
+	[0] - [4095]: INVALID
+[17]: 0x1355000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x1267000
+	[0] - [4095]: INVALID
+[4095]: 0x1256000
+	[0] - [4095]: INVALID
+
+Hit count: 14822
+Miss count: 25162
+Clean evictions: 0
+Dirty evictions: 24962
+Total references : 39984
+Hit rate: 37.0698
+Miss rate: 62.9302
+opt
+traceprogs/tr-interesting.ref
+50
+[0]: 0x19e9000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x19b6000
+	[0] - [4095]: INVALID
+[5]: 0x19fa000
+	[0] - [4095]: INVALID
+[6]: 0x1a0b000
+	[0] - [4095]: INVALID
+[7]: 0x1a1c000
+	[0] - [4095]: INVALID
+[8]: 0x1a2d000
+	[0] - [4095]: INVALID
+[9]: 0x1a3e000
+	[0] - [4095]: INVALID
+[10]: 0x1a4f000
+	[0] - [4095]: INVALID
+[11]: 0x1a60000
+	[0] - [4095]: INVALID
+[12]: 0x1a71000
+	[0] - [4095]: INVALID
+[13]: 0x1a82000
+	[0] - [4095]: INVALID
+[14]: 0x1a93000
+	[0] - [4095]: INVALID
+[15]: 0x1aa4000
+	[0] - [4095]: INVALID
+[16]: 0x1ab5000
+	[0] - [4095]: INVALID
+[17]: 0x1ac6000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x19d8000
+	[0] - [4095]: INVALID
+[4095]: 0x19c7000
+	[0] - [4095]: INVALID
+
+Hit count: 14839
+Miss count: 25145
+Clean evictions: 13
+Dirty evictions: 25082
+Total references : 39984
+Hit rate: 37.1123
+Miss rate: 62.8877
+100
+[0]: 0xc84000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0xc51000
+	[0] - [4095]: INVALID
+[5]: 0xc95000
+	[0] - [4095]: INVALID
+[6]: 0xca6000
+	[0] - [4095]: INVALID
+[7]: 0xcb7000
+	[0] - [4095]: INVALID
+[8]: 0xcc8000
+	[0] - [4095]: INVALID
+[9]: 0xcd9000
+	[0] - [4095]: INVALID
+[10]: 0xcea000
+	[0] - [4095]: INVALID
+[11]: 0xcfb000
+	[0] - [4095]: INVALID
+[12]: 0xd0c000
+	[0] - [4095]: INVALID
+[13]: 0xd1d000
+	[0] - [4095]: INVALID
+[14]: 0xd2e000
+	[0] - [4095]: INVALID
+[15]: 0xd3f000
+	[0] - [4095]: INVALID
+[16]: 0xd50000
+	[0] - [4095]: INVALID
+[17]: 0xd61000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0xc73000
+	[0] - [4095]: INVALID
+[4095]: 0xc62000
+	[0] - [4095]: INVALID
+
+Hit count: 14862
+Miss count: 25122
+Clean evictions: 0
+Dirty evictions: 25022
+Total references : 39984
+Hit rate: 37.1699
+Miss rate: 62.8301
+150
+[0]: 0xce4000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0xcb1000
+	[0] - [4095]: INVALID
+[5]: 0xcf5000
+	[0] - [4095]: INVALID
+[6]: 0xd06000
+	[0] - [4095]: INVALID
+[7]: 0xd17000
+	[0] - [4095]: INVALID
+[8]: 0xd28000
+	[0] - [4095]: INVALID
+[9]: 0xd39000
+	[0] - [4095]: INVALID
+[10]: 0xd4a000
+	[0] - [4095]: INVALID
+[11]: 0xd5b000
+	[0] - [4095]: INVALID
+[12]: 0xd6c000
+	[0] - [4095]: INVALID
+[13]: 0xd7d000
+	[0] - [4095]: INVALID
+[14]: 0xd8e000
+	[0] - [4095]: INVALID
+[15]: 0xd9f000
+	[0] - [4095]: INVALID
+[16]: 0xdb0000
+	[0] - [4095]: INVALID
+[17]: 0xdc1000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0xcd3000
+	[0] - [4095]: INVALID
+[4095]: 0xcc2000
+	[0] - [4095]: INVALID
+
+Hit count: 14862
+Miss count: 25122
+Clean evictions: 0
+Dirty evictions: 24972
+Total references : 39984
+Hit rate: 37.1699
+Miss rate: 62.8301
+200
+[0]: 0x80c000
+	[0] - [4095]: INVALID
+[1]: INVALID
+  to
+[3]: INVALID
+[4]: 0x7d9000
+	[0] - [4095]: INVALID
+[5]: 0x81d000
+	[0] - [4095]: INVALID
+[6]: 0x82e000
+	[0] - [4095]: INVALID
+[7]: 0x83f000
+	[0] - [4095]: INVALID
+[8]: 0x850000
+	[0] - [4095]: INVALID
+[9]: 0x861000
+	[0] - [4095]: INVALID
+[10]: 0x872000
+	[0] - [4095]: INVALID
+[11]: 0x883000
+	[0] - [4095]: INVALID
+[12]: 0x894000
+	[0] - [4095]: INVALID
+[13]: 0x8a5000
+	[0] - [4095]: INVALID
+[14]: 0x8b6000
+	[0] - [4095]: INVALID
+[15]: 0x8c7000
+	[0] - [4095]: INVALID
+[16]: 0x8d8000
+	[0] - [4095]: INVALID
+[17]: 0x8e9000
+	[0] - [4095]: INVALID
+[18]: INVALID
+  to
+[4093]: INVALID
+[4094]: 0x7fb000
+	[0] - [4095]: INVALID
+[4095]: 0x7ea000
+	[0] - [4095]: INVALID
+
+Hit count: 14862
+Miss count: 25122
+Clean evictions: 0
+Dirty evictions: 24922
+Total references : 39984
+Hit rate: 37.1699
+Miss rate: 62.8301
